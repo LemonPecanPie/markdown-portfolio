@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- pie :pie:
+  - lemon pecan pie is great
+- my dog :dog:
+  - he's a bichon frise
