@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pig made by Elthen (https://www.patreon.com/elthen)](https://opengameart.org/sites/default/files/prew_16.gif)
